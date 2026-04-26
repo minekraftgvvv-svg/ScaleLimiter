@@ -1,0 +1,4 @@
+name: ScaleLimiter
+version: 1.0
+main: me.scale.ScaleLimiter
+api-version: 1.16
